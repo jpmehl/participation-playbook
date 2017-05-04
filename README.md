@@ -11,12 +11,23 @@ Federal agencies understand the importance of meaningful public engagement. The 
 Tradução: As agências federais entendem a importância do engajamento público. O tipo de envolvimento será diferente para cada organização, dependendo dos recursos, do público e da missão. Cada agência deve estabelecer metas que se alinhem com sua própria definição de sucesso e incentive o público a se envolver com as agências para influenciar as prioridades do governo.
 
 **Checklist**
+Tradução **Lista de tarefas**
 
 - Identify what goal(s) you aim to achieve.
 - Develop a plan that includes a timeline, and strategy – ramp up and drawdown.
 - Evaluate organizational capacity for engaging and managing public participation.
 - Identify internal and external stakeholders and partners.
 - Evaluate and change strategy based on feedback and performance data.
+
+Tradução: 
+
+
+- Identifique o(s) objetivo(s) que pretende alcançar.
+- Desenvolva um plano que inclua um cronograma e uma estratégia - ?"de sucesso ou fracasso"?.
+- Avaliar a capacidade organizacional para engajar e gerenciar a participação pública.
+- Identificar as partes interessadas interna e externamente e potenciais parceiros.
+- Avalie e altere a estratégia com base em feedback e dados de desempenho.
+
 
 **Case Studies**
 
