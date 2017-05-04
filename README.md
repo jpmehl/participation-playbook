@@ -1,11 +1,14 @@
 
 
-
 # Establish goals
+# Tradução: Estabelecendo metas
 
 # Play 1: Clearly define and communicate your objectives
+# Tradução: # Play 1: Definir e comunicar claramente seus objetivos
 
 Federal agencies understand the importance of meaningful public engagement. The type of engagement will differ for each organization, depending on resources, audience and mission. Every agency must set goals that align with its unique definition of success and empowers the public to engage with agencies in order to influence government priorities.
+
+Tradução: As agências federais entendem a importância do engajamento público. O tipo de envolvimento será diferente para cada organização, dependendo dos recursos, do público e da missão. Cada agência deve estabelecer metas que se alinhem com sua própria definição de sucesso e incentive o público a se envolver com as agências para influenciar as prioridades do governo.
 
 **Checklist**
 
