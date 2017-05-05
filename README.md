@@ -31,7 +31,8 @@ Tradução:
 
 **Case Studies**
 
-- [ePolicyWorks](https://www.epolicyworks.org/epw/about/) is an initiative by the Department of Labor's Office of Disability Employment Policy. The tool is designed around a clear policy-making objective and addresses specific challenges in collaborative policy making.
+- [ePolicyWorks](https://www.epolicyworks.org/epw/about/) é uma iniciativa da Agência de Políticas de Emprego para Deficientes do Ministério do Trabalho.  A ferramenta é projetada em torno de um objetivo claro de formulação de políticas e  visa desafios específicos e elaboração de políticas colaborativas.
+
 - Agencies can develope regulations using the [theRegulations.gov](http://www.regulations.gov/#!home) portal during the commenting period to consider public input and make relevant, appropriate revisions. Regulations.gov is a portal that simplifies finding, reviewing, and submitting comments on Rules and Proposed Rules that appear in the Federal Register.
 
 **Resources**
