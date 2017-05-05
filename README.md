@@ -29,11 +29,11 @@ Tradução:
 - Avalie e altere a estratégia com base em feedback e dados de desempenho.
 
 
-**Case Studies**
+**Estudo de casos**
 
 - [ePolicyWorks](https://www.epolicyworks.org/epw/about/) é uma iniciativa da Agência de Políticas de Emprego para Deficientes do Ministério do Trabalho.  A ferramenta é projetada em torno de um objetivo claro de formulação de políticas e  visa desafios específicos e elaboração de políticas colaborativas.
 
-- Agencies can develope regulations using the [theRegulations.gov](http://www.regulations.gov/#!home) portal during the commenting period to consider public input and make relevant, appropriate revisions. Regulations.gov is a portal that simplifies finding, reviewing, and submitting comments on Rules and Proposed Rules that appear in the Federal Register.
+- As agências podem desnesvolver regulações usando o [theRegulations.gov](http://www.regulations.gov/#!home) portal que permite que as pessoas interajam por um período através de revisões e comentárrios. Regulations.gov is a portal that simplifies finding, reviewing, and submitting comments on Rules and Proposed Rules that appear in the Federal Register.
 
 **Resources**
 
